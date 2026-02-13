@@ -3,7 +3,7 @@
 ## Name
 Muneeb Khan
 
-[View Resume]([link](https://drive.google.com/file/d/1NUkagHdiGYgiTjZKXl_rImJBdSMQFL6c/view?usp=sharing))
+[View Resume]https://drive.google.com/file/d/1NUkagHdiGYgiTjZKXl_rImJBdSMQFL6c/view?usp=sharing
 
 
 ## Role
